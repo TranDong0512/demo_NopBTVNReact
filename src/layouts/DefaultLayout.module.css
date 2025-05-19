@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  min-height: 100vh;
+  width: 100vw;
+  background-color: #f9fafb;
+}
+
+.main {
+  flex: 1;
+  padding: 16px;
+}
