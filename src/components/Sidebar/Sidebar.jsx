@@ -6,6 +6,7 @@ const Sidebar = () => {
   const navItems = [
     { id: 1, label: "Task 44", path: "/task44" },
     { id: 2, label: "Task 45", path: "/task45" },
+    { id: 3, label: "Task 46", path: "/task46" },
   ];
 
   return (

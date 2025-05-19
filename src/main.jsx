@@ -10,3 +10,6 @@ createRoot(document.getElementById("root")).render(
     <App />
   </StrictMode>
 );
+
+// Tạo tên task hiển trị trên sidebar
+// Vào router cấu hình đương dẫn cho các task
